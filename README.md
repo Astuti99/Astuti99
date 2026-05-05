@@ -48,15 +48,15 @@
 
 ⭐ Always eager to learn and grow in Data Analytics!
 
-## 📊 dashboard Preview
+## 📊 Dashboard Preview
 
-![dashboard](dashboard1.png)
+![Dashboard](Dashboard1.png)
 
 ## 📊 Product Analysis
-![Product](dashboard2.png)
+![Product](Dashboard2.png)
 
 ## 📊 Customer Analysis
-![Customer](dashboard3.png)
+![Customer](Dashboard3.png)
 
 ## 🗄️ SQL Analysis
 
