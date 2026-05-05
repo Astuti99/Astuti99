@@ -48,3 +48,22 @@
 
 ⭐ Always eager to learn and grow in Data Analytics!
 
+## 📊 dashboard Preview
+
+![dashboard](dashboard1.png)
+
+## 📊 Product Analysis
+![Product](dashboard2.png)
+
+## 📊 Customer Analysis
+![Customer](dashboard3.png)
+
+## 🗄️ SQL Analysis
+
+![SQL](Bank_loan_output.png)
+
+![SQL](Bank_loan_output6.png)
+
+![SQL](bank_loan_output3.png)
+
+
