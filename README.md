@@ -43,6 +43,7 @@
 
 * LinkedIn: (Add your link here)
 * Email: (your email)
+* - GitHub: https://github.com/Astuti99
 
 ---
 
@@ -84,22 +85,41 @@ This analysis helps in:
 ## 📊 Customer Analysis
 ![Customer](Dashboard3.png)
 
-## 🔍 Key Insights
+  📌 SQL Problem Statements
 
-- Bikes category generates highest revenue (~$15M)
-- Weekend sales are higher than weekdays in Accessories
-- Customers aged 31–50 have better credit scores
-- Higher loan terms show slightly increased default risk
-- Customers with lower income have higher EMI burden
-- Management occupation customers generate highest revenue
+The following business questions were solved using SQL:
+
+1. How does credit score vary across different age groups?
+2. Is there a gender-based difference in loan default rates?
+3. Which loan types have the highest monthly installment burden?
+4. How does employment status affect loan default rates?
+
+These queries helped uncover patterns in customer risk behavior and financial trends.
   
 ## 🗄️ SQL Analysis
 
 ![SQL](Bank_loan_output4.png)
+📊 Query Explanation
+
+- Used CASE WHEN to group customers into age categories
+- Applied AVG() to calculate average credit score per group
+- Used GROUP BY to compare trends across segments
+- Implemented subqueries to calculate default percentage
+
+This approach helped in understanding risk segmentation clearly.
 
 ![SQL](Bank_loan_output6.png)
 
 ![SQL](bank_loan_output3.png)
+
+🔍 Key Insights
+
+- Bikes category contributes ~90% of total revenue (~$15M), making it the primary revenue driver
+- Weekend sales are significantly higher in Accessories, indicating customer buying behavior patterns
+- Customers aged 31–50 show higher and stable credit scores, making them low-risk borrowers
+- Longer loan terms slightly increase default probability, indicating higher financial stress
+- Lower income customers tend to have higher EMI burden, increasing default risk
+- Customers in management roles generate the highest revenue contribution
 
 ## 🛠 Tools Used
 
@@ -115,5 +135,17 @@ It demonstrates strong skills in:
 - SQL analysis
 - Dashboard creation
 - Business understanding
+
+  🚀 Project Impact
+
+- Helped identify high-revenue product categories for better sales targeting
+- Provided insights into customer segments for risk-based loan approval
+- Improved decision-making using data-driven insights
+
+  📈 Future Improvements
+
+- Build predictive model for loan default prediction
+- Integrate real-time data for dynamic dashboard updates
+- Perform customer segmentation using clustering techniques
 
 
