@@ -64,6 +64,6 @@
 
 ![SQL](Bank_loan_output6.png)
 
-![SQL](bank_loan_output3.png)
+![SQL](Bank_loan_output3.png)
 
 
