@@ -5,6 +5,11 @@
 
 ---
 
+## 📌 Project Overview
+
+This project focuses on analyzing sales and bank loan data to uncover business insights.  
+Using Power BI and SQL, I explored customer behavior, product performance, and loan risk patterns to support data-driven decision making.
+
 ## 🚀 Skills
 
 * Excel (Advanced)
@@ -17,11 +22,12 @@
 
 ## 📊 Projects
 
-### 🔹 Adventure Works Sales Dashboard
+### 📊 Adventure Works Sales Dashboard
 
-* Built interactive Power BI dashboard
-* Analyzed sales, customers, and product performance
-* Created KPIs and visual insights
+- Built an interactive Power BI dashboard to analyze sales performance  
+- Identified top-performing products and revenue-driving categories  
+- Analyzed customer behavior and regional sales trends  
+- Designed KPIs to track revenue, orders, and returns  
 
 ### 🔹 Bank Loan Analysis
 
@@ -77,6 +83,15 @@ This analysis helps in:
 
 ## 📊 Dashboard Preview
 
+## 📊 Key Metrics (KPIs)
+
+- Total Revenue: $15.73M  
+- Total Orders: 27K  
+- Quantity Sold: 39K  
+- Total Returns: 1,828  
+
+These KPIs help track overall business performance and efficiency.
+
 ![Dashboard](Dashboard1.png)
 
 ## 📊 Product Analysis
@@ -123,9 +138,9 @@ This approach helped in understanding risk segmentation clearly.
 
 ## 🛠 Tools Used
 
-- Power BI (Dashboard)
-- SQL Server (Data Analysis)
-- Excel (Data Cleaning)
+- **Power BI** – Built interactive dashboards and visual reports  
+- **SQL Server** – Performed data analysis and wrote complex queries  
+- **Excel** – Data cleaning and preprocessing  
 
 ## ✅ Conclusion
 
@@ -148,4 +163,5 @@ It demonstrates strong skills in:
 - Integrate real-time data for dynamic dashboard updates
 - Perform customer segmentation using clustering techniques
 
+⭐ If you found this project useful, feel free to connect with me and explore more of my work!
 
