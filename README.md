@@ -60,10 +60,10 @@
 
 ## 🗄️ SQL Analysis
 
-![SQL](Bank_loan_output.png)
+![SQL](Bank_loan_output4.png)
 
 ![SQL](Bank_loan_output6.png)
 
-![SQL](Bank_loan_output3.png)
+![SQL](bank_loan_output3.png)
 
 
