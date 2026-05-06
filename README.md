@@ -17,6 +17,15 @@ The analysis helps businesses understand:
 - Sales performance across categories
 
 ---
+# ⭐ Project Highlights
+
+- Built interactive Power BI dashboards for sales and customer analysis
+- Analyzed 27K+ orders and 39K+ product sales records
+- Identified high-return product categories and revenue trends
+- Used SQL queries for business problem solving
+- Created KPI-driven insights for better decision making
+
+---
 
 # 🎯 Project Objectives
 
@@ -43,7 +52,7 @@ The analysis helps businesses understand:
 - Excel (Advanced)
 - SQL
 - Power BI
-- Python (Pandas, NumPy)
+- Python for Data Analysis (Pandas, NumPy)
 - Statistics
 - Data Cleaning
 - Data Visualization
@@ -59,6 +68,15 @@ The analysis helps businesses understand:
 | Power BI | Dashboard Creation |
 | Python | Data Processing |
 | Statistics | Business Insights |
+
+---
+
+# 📂 Dataset Information
+
+- Dataset: Adventure Works Sales Data & Bank Loan Data
+- Total Orders Analyzed: 27K+
+- Quantity Sold: 39K+
+- Tools Used: Excel, SQL Server, Power BI, Python
 
 ---
 
