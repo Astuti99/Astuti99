@@ -18,6 +18,16 @@ The analysis helps businesses understand:
 
 ---
 
+# 🎯 Project Objectives
+
+- Analyze sales and customer behavior data
+- Identify high-performing products and categories
+- Track revenue, orders, and return trends
+- Understand customer purchasing patterns
+- Generate business insights using Power BI and SQL
+
+---
+
 # ⚙️ Project Workflow
 
 1. Data Cleaning using Excel  
@@ -37,6 +47,18 @@ The analysis helps businesses understand:
 - Statistics
 - Data Cleaning
 - Data Visualization
+
+---
+
+# 🛠 Tools & Technologies
+
+| Tool | Purpose |
+|------|----------|
+| Excel | Data Cleaning |
+| SQL Server | Data Analysis |
+| Power BI | Dashboard Creation |
+| Python | Data Processing |
+| Statistics | Business Insights |
 
 ---
 
@@ -120,6 +142,22 @@ CASE
     WHEN Age BETWEEN 51 AND 60 THEN '51-60'
     ELSE '>60'
 END;
+
+# ✅ Conclusion
+
+This project helped uncover valuable business insights from sales and customer data.  
+Using SQL, Excel, and Power BI, the analysis identified:
+
+- High-performing product categories
+- Customer purchasing behavior
+- Revenue and return trends
+- Business growth opportunities
+
+This project demonstrates practical skills in:
+- Data Cleaning
+- SQL Analysis
+- Dashboard Development
+- Business Intelligence
 
 # 📞 Contact Me
 
