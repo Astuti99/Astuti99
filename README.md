@@ -148,10 +148,6 @@ These queries helped uncover patterns in customer risk behavior and financial tr
 
 This approach helped in understanding risk segmentation clearly.
 
-![SQL](Bank_loan_output6.png)
-
-![SQL](bank_loan_output3.png)
-
 🔍 Key Insights
 
 - Bikes category contributes ~90% of total revenue (~$15M), making it the primary revenue driver
