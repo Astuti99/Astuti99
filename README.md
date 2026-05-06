@@ -162,7 +162,7 @@ This project demonstrates practical skills in:
 
 # 📞 Contact Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: astuti@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/astuti-astuti-3a014a403/
+- 📧 Email: astutijha.12345@gmail.com
 - 🌐 GitHub: https://github.com/Astuti99
 
