@@ -1,186 +1,104 @@
-# Hi 👋, I'm Astuti
-
-🎓 B.Sc Student | 📊 Aspiring Data Analyst | 📈 Passionate about turning data into business insights
-
----
-
-# 📌 Project Overview
-
-This project focuses on analyzing **Adventure Works Sales Data** and **Bank Loan Data** to uncover meaningful business insights using **Power BI, SQL, and Excel**.
-
-The analysis helps businesses understand:
-
-- Customer behavior
-- Product performance
-- Revenue trends
-- Loan default risk
-- Sales performance across categories
-
----
-# ⭐ Project Highlights
-
-- Built interactive Power BI dashboards for sales and customer analysis
-- Analyzed 27K+ orders and 39K+ product sales records
-- Identified high-return product categories and revenue trends
-- Used SQL queries for business problem solving
-- Created KPI-driven insights for better decision making
+<h1 align="center">Hi 👋, I'm Doli Kumari</h1>
+<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI</h3>
 
 ---
 
-# 🎯 Project Objectives
+## 🙋‍♀️ About Me
 
-- Analyze sales and customer behavior data
-- Identify high-performing products and categories
-- Track revenue, orders, and return trends
-- Understand customer purchasing patterns
-- Generate business insights using Power BI and SQL
-
----
-
-# ⚙️ Project Workflow
-
-1. Data Cleaning using Excel  
-2. SQL Data Analysis  
-3. Dashboard Creation in Power BI  
-4. KPI & Business Insight Generation  
-5. Customer & Product Performance Analysis  
+- 🎓 Passionate about Data Analytics and Business Intelligence
+- 📊 Skilled in SQL, Python, Excel, and Power BI
+- 📚 Currently improving problem-solving and analytics skills
+- 💡 Interested in transforming raw data into meaningful insights
+- 🚀 Working on real-world data analytics projects
 
 ---
 
-# 🚀 Skills Used
+## 🌐 Connect With Me
 
-- Excel (Advanced)
-- SQL
-- Power BI
-- Python for Data Analysis (Pandas, NumPy)
-- Statistics
-- Data Cleaning
-- Data Visualization
+<p align="left">
+<a href="YOUR_LINKEDIN_LINK" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
 
----
-
-# 🛠 Tools & Technologies
-
-| Tool | Purpose |
-|------|----------|
-| Excel | Data Cleaning |
-| SQL Server | Data Analysis |
-| Power BI | Dashboard Creation |
-| Python | Data Processing |
-| Statistics | Business Insights |
+<a href="YOUR_GITHUB_LINK" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-# 📂 Dataset Information
+## 💻 Tech Stack
 
-- Dataset: Adventure Works Sales Data & Bank Loan Data
-- Total Orders Analyzed: 27K+
-- Quantity Sold: 39K+
-- Tools Used: Excel, SQL Server, Power BI, Python
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
-# 📊 Dashboard Preview
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-## 📌 Category Analysis Dashboard
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-- Analyzed revenue contribution by product categories
-- Compared weekday vs weekend orders
-- Identified high-return product segments
-- Tracked sales KPIs and return metrics
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-![Category Dashboard](Dashboard1.png)
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-## 📌 Product Analysis Dashboard
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-- Identified most profitable products
-- Analyzed weekly profit trends
-- Compared product returns over time
-- Visualized country-wise order distribution
-
-![Product Dashboard](Dashboard2.png)
+</p>
 
 ---
 
-## 📌 Customer Analysis Dashboard
+## 📂 Featured Projects
 
-- Analyzed customer revenue contribution
-- Compared income-category purchasing behavior
-- Identified top customers and occupations
-- Evaluated revenue trends across age groups
+### 🏦 Bank Loan Analysis
+- SQL-based project to analyze loan applications and customer insights
+- Created KPIs and business reports using SQL queries
 
-![Customer Dashboard](Dashboard3.png)
+### 📊 Sales Dashboard
+- Interactive Power BI dashboard for business sales analysis
+- Visualized revenue, profit, and customer trends
 
----
-
-# 📈 Key Performance Indicators (KPIs)
-
-| KPI | Value |
-|------|------|
-| Total Revenue | $15.73M |
-| Total Orders | 27K |
-| Quantity Sold | 39K |
-| Total Returns | 1,828 |
+### 🐍 Python Data Analysis
+- Performed data cleaning and visualization using Python libraries
+- Used Pandas, NumPy, and Matplotlib
 
 ---
 
-# 🧠 SQL Business Questions Solved
+## 📈 GitHub Stats
 
-1. How does credit score vary across age groups?
-2. Which loan types have the highest repayment burden?
-3. How does employment status affect loan default rate?
-4. Is there a gender-based difference in default rate?
-5. Which customer segments generate maximum revenue?
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
 
 ---
 
-# 💻 SQL Query Example
+## 📊 Most Used Languages
 
-```sql
-SELECT
-CASE
-    WHEN Age BETWEEN 20 AND 30 THEN '20-30'
-    WHEN Age BETWEEN 31 AND 40 THEN '31-40'
-    WHEN Age BETWEEN 41 AND 50 THEN '41-50'
-    WHEN Age BETWEEN 51 AND 60 THEN '51-60'
-    ELSE '>60'
-END AS GROUPS,
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
 
-AVG(Credit_Score) AS AVG_CREDIT_SCORE
+---
 
-FROM Bank_loan
+## 🏆 Achievements
 
-GROUP BY
-CASE
-    WHEN Age BETWEEN 20 AND 30 THEN '20-30'
-    WHEN Age BETWEEN 31 AND 40 THEN '31-40'
-    WHEN Age BETWEEN 41 AND 50 THEN '41-50'
-    WHEN Age BETWEEN 51 AND 60 THEN '51-60'
-    ELSE '>60'
-END;
-```
+- ✅ Completed SQL projects
+- ✅ Built Power BI dashboards
+- ✅ Practicing Python case studies
+- ✅ Learning advanced analytics concepts
 
-# ✅ Conclusion
+---
 
-This project helped uncover valuable business insights from sales and customer data.  
-Using SQL, Excel, and Power BI, the analysis identified:
+## ✨ Quote
 
-- High-performing product categories
-- Customer purchasing behavior
-- Revenue and return trends
-- Business growth opportunities
+> “Data is the new oil, but insights are the real value.”
 
-This project demonstrates practical skills in:
-- Data Cleaning
-- SQL Analysis
-- Dashboard Development
-- Business Intelligence
+---
 
-# 📞 Contact Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/astuti-astuti-3a014a403/
-- 📧 Email: astutijha.12345@gmail.com
-- 🌐 GitHub: https://github.com/Astuti99
+<h3 align="center">Thanks for visiting my profile ❤️</h3>
 
