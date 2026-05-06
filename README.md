@@ -142,6 +142,7 @@ CASE
     WHEN Age BETWEEN 51 AND 60 THEN '51-60'
     ELSE '>60'
 END;
+```
 
 # ✅ Conclusion
 
