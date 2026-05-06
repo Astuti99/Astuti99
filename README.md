@@ -1,45 +1,53 @@
-<h1 align="center">Hi 👋, I'm Doli Kumari</h1>
-<h3 align="center">Aspiring Data Analyst | SQL | Python | Power BI</h3>
+<h1 align="center">✨ Hi there, I'm Astuti ✨</h1>
 
----
+<h3 align="center">
+📊 Aspiring Data Analyst | SQL • Python • Power BI • Excel Enthusiast
+</h3>
 
-## 🙋‍♀️ About Me
-
-- 🎓 Passionate about Data Analytics and Business Intelligence
-- 📊 Skilled in SQL, Python, Excel, and Power BI
-- 📚 Currently improving problem-solving and analytics skills
-- 💡 Interested in transforming raw data into meaningful insights
-- 🚀 Working on real-world data analytics projects
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="YOUR_LINKEDIN_LINK" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="YOUR_GITHUB_LINK" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" height="30" width="40" />
-</a>
+<p align="center">
+Turning raw data into meaningful insights and interactive dashboards 🚀
 </p>
 
 ---
 
-## 💻 Tech Stack
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B801&center=true&vCenter=true&width=435&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI;Data+Visualization+Enthusiast;Always+Learning+New+Skills+🚀"/>
+</p>
 
-<p align="left">
+---
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+# 🌸 About Me
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+✨ Welcome to my GitHub profile!
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+I am passionate about data analytics, business intelligence, and solving real-world problems using data-driven approaches.  
+I enjoy learning new technologies, creating dashboards, analyzing datasets, and continuously improving my analytical skills.
+
+🔹 Currently exploring advanced analytics and visualization techniques  
+🔹 Interested in Data Analytics, Business Intelligence & Reporting  
+🔹 Love transforming complex data into simple insights  
+
+---
+
+# 💻 Skills & Technologies
+
+<p align="center">
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Statistics-FF6F61?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
@@ -49,56 +57,87 @@
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-### 🏦 Bank Loan Analysis
-- SQL-based project to analyze loan applications and customer insights
-- Created KPIs and business reports using SQL queries
-
-### 📊 Sales Dashboard
-- Interactive Power BI dashboard for business sales analysis
-- Visualized revenue, profit, and customer trends
-
-### 🐍 Python Data Analysis
-- Performed data cleaning and visualization using Python libraries
-- Used Pandas, NumPy, and Matplotlib
+## 🏦 Bank Loan Analysis
+✔️ Analyzed customer loan data using SQL queries  
+✔️ Generated KPIs and business insights  
+✔️ Improved reporting and decision-making analysis  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Sales Dashboard in Power BI
+✔️ Built interactive dashboards using Power BI  
+✔️ Visualized revenue, sales trends, and customer insights  
+✔️ Created dynamic filters and charts  
+
+---
+
+## 🐍 Python Data Analysis
+✔️ Cleaned and analyzed datasets using Python  
+✔️ Used Pandas, NumPy, and Matplotlib libraries  
+✔️ Performed data visualization and reporting  
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📊 Most Used Languages
+# 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🏆 Achievements
+# 🌐 Connect With Me
 
-- ✅ Completed SQL projects
-- ✅ Built Power BI dashboards
-- ✅ Practicing Python case studies
-- ✅ Learning advanced analytics concepts
+<p align="center">
+
+<a href="https://www.linkedin.com/in/astuti-astuti-3a014a403/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Astuti99">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-## ✨ Quote
+# 🏆 Achievements
 
-> “Data is the new oil, but insights are the real value.”
+🌟 SQL Projects Completed  
+🌟 Power BI Dashboards Created  
+🌟 Python Data Analysis Projects  
+🌟 Continuous Learning & Skill Development  
 
 ---
 
-<h3 align="center">Thanks for visiting my profile ❤️</h3>
+# ✨ Quote
+
+> “Without data, you're just another person with an opinion.”
+
+---
+
+<h3 align="center">
+💖 Thanks for visiting my profile 💖
+</h3>
 
