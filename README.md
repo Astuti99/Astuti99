@@ -1,4 +1,4 @@
-# Hi 👋, I'm Astuti Kumari
+# Hi 👋, I'm Astuti
 
 🎓 B.Sc Student | 📊 Aspiring Data Analyst | 📈 Passionate about turning data into business insights
 
