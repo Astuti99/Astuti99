@@ -1,183 +1,129 @@
 # Hi 👋, I'm Astuti Kumari
 
-🎓 B.Sc Student | Aspiring Data Analyst
-📊 Passionate about turning data into insights
+🎓 B.Sc Student | 📊 Aspiring Data Analyst | 📈 Passionate about turning data into business insights
 
 ---
 
-## 🔄 Project Workflow
+# 📌 Project Overview
 
-1. Data Cleaning using Excel
-2. Data Analysis using SQL
-3. KPI and dashboard creation in Power BI
-4. Business insight generation
-5. Customer and product performance analysis
+This project focuses on analyzing **Adventure Works Sales Data** and **Bank Loan Data** to uncover meaningful business insights using **Power BI, SQL, and Excel**.
 
-Adventure-Works-Analysis/
-│
-├── README.md
-├── Dashboard/
-│   ├── Dashboard1.png
-│   ├── Dashboard2.png
-│
-├── SQL/
-│   ├── analysis_queries.sql
-│
-├── Dataset/
-│   ├── dataset.csv
-│
-└── Images/
-    ├── customer_analysis.png
+The analysis helps businesses understand:
 
-## 🚀 Skills
-
-* Excel (Advanced)
-* SQL
-* Power BI
-* Python (Pandas, NumPy)
-* Statistics
-
----
-
-## 📊 Projects
-
-### 📊 Adventure Works Sales Dashboard
-
-- Built an interactive Power BI dashboard to analyze sales performance  
-- Identified top-performing products and revenue-driving categories  
-- Analyzed customer behavior and regional sales trends  
-- Designed KPIs to track revenue, orders, and returns  
-
-### 🔹 Bank Loan Analysis
-
-* Performed SQL-based analysis on loan dataset
-* Identified default trends and risk patterns
-* Built queries for business insights
-
----
-
-## 📈 What I’m Working On
-
-* Improving data visualization skills
-* Building more real-world projects
-* Learning advanced SQL & Python
-
----
-
-## 📫 Contact Me
-
-* LinkedIn: (https://www.linkedin.com/in/astuti-astuti-3a014a403/)
-* Email: (astutijha.12345@gmail.com)
-* - GitHub: https://github.com/Astuti99
-
----
-
-⭐ Always eager to learn and grow in Data Analytics!
-
-## 📌 Business Problem
-
-The company wants to understand:
-- Which products generate the most revenue?
-- Which customers contribute the highest value?
-- What factors lead to loan defaults?
-- How credit score, income, and employment affect risk
-
-This analysis helps in:
-- Improving sales strategy
-- Reducing loan risk
-- Identifying high-value customers
-
-## 📊 Dataset Information
-
-- Dataset: Adventure Works (Sales Data)
-- Bank Loan Dataset (SQL Analysis)
-- Records: ~XX rows
-- Key Columns:
-  - Customer_ID
-  - Age
-  - Credit_Score
-  - Loan_Amount
-  - Income
-  - Product Category
-
-## 📊 Dashboard Preview
-
-## 📊 Key Metrics (KPIs)
-
-- Total Revenue: $15.73M  
-- Total Orders: 27K  
-- Quantity Sold: 39K  
-- Total Returns: 1,828
-
-  These KPIs helped measure:
-- Sales growth
+- Customer behavior
 - Product performance
-- Return trends
-- Customer contribution
+- Revenue trends
+- Loan default risk
+- Sales performance across categories
 
-These KPIs help track overall business performance and efficiency.
+---
 
-![Dashboard](Dashboard1.png)
+# ⚙️ Project Workflow
 
-## 📊 Product Analysis
-![Product](Dashboard2.png)
+1. Data Cleaning using Excel  
+2. SQL Data Analysis  
+3. Dashboard Creation in Power BI  
+4. KPI & Business Insight Generation  
+5. Customer & Product Performance Analysis  
 
-## 📊 Customer Analysis
-![Customer](Dashboard3.png)
+---
 
-  📌 SQL Problem Statements
+# 🚀 Skills Used
 
-The following business questions were solved using SQL:
+- Excel (Advanced)
+- SQL
+- Power BI
+- Python (Pandas, NumPy)
+- Statistics
+- Data Cleaning
+- Data Visualization
 
-1. How does credit score vary across different age groups?
-2. Is there a gender-based difference in loan default rates?
-3. Which loan types have the highest monthly installment burden?
-4. How does employment status affect loan default rates?
+---
 
-These queries helped uncover patterns in customer risk behavior and financial trends.
-  
-## 🗄️ SQL Analysis
+# 📊 Dashboard Preview
 
-![SQL](Bank_loan_output4.png)
-📊 Query Explanation
+## 📌 Category Analysis Dashboard
 
-- Used CASE WHEN to group customers into age categories
-- Applied AVG() to calculate average credit score per group
-- Used GROUP BY to compare trends across segments
-- Implemented subqueries to calculate default percentage
+- Analyzed revenue contribution by product categories
+- Compared weekday vs weekend orders
+- Identified high-return product segments
+- Tracked sales KPIs and return metrics
 
-This approach helped in understanding risk segmentation clearly.
+![Category Dashboard](Dashboard1.png)
 
-🔍 Key Insights
+---
 
-- Bikes category contributes ~90% of total revenue (~$15M), making it the primary revenue driver
-- Weekend sales are significantly higher in Accessories, indicating customer buying behavior patterns
-- Customers aged 31–50 show higher and stable credit scores, making them low-risk borrowers
-- Longer loan terms slightly increase default probability, indicating higher financial stress
-- Lower income customers tend to have higher EMI burden, increasing default risk
-- Customers in management roles generate the highest revenue contribution
+## 📌 Product Analysis Dashboard
 
-## 🛠 Tools Used
+- Identified most profitable products
+- Analyzed weekly profit trends
+- Compared product returns over time
+- Visualized country-wise order distribution
 
-- **Power BI** – Built interactive dashboards and visual reports  
-- **SQL Server** – Performed data analysis and wrote complex queries  
-- **Excel** – Data cleaning and preprocessing  
+![Product Dashboard](Dashboard2.png)
 
-## ✅ Conclusion
+---
 
-This project demonstrates my ability to analyze business data using SQL, Power BI, Excel, and Python. It helped uncover sales trends, customer behavior, and loan risk patterns to support data-driven decision-making.
+## 📌 Customer Analysis Dashboard
 
-  🚀 Project Impact
+- Analyzed customer revenue contribution
+- Compared income-category purchasing behavior
+- Identified top customers and occupations
+- Evaluated revenue trends across age groups
 
-- Helped identify high-revenue product categories for better sales targeting
-- Provided insights into customer segments for risk-based loan approval
-- Improved decision-making using data-driven insights
+![Customer Dashboard](Dashboard3.png)
 
-  📈 Future Improvements
+---
 
-- Build predictive model for loan default prediction
-- Integrate real-time data for dynamic dashboard updates
-- Perform customer segmentation using clustering techniques
+# 📈 Key Performance Indicators (KPIs)
 
-⭐ If you found this project useful, feel free to connect with me and explore more of my work!
+| KPI | Value |
+|------|------|
+| Total Revenue | $15.73M |
+| Total Orders | 27K |
+| Quantity Sold | 39K |
+| Total Returns | 1,828 |
+
+---
+
+# 🧠 SQL Business Questions Solved
+
+1. How does credit score vary across age groups?
+2. Which loan types have the highest repayment burden?
+3. How does employment status affect loan default rate?
+4. Is there a gender-based difference in default rate?
+5. Which customer segments generate maximum revenue?
+
+---
+
+# 💻 SQL Query Example
+
+```sql
+SELECT
+CASE
+    WHEN Age BETWEEN 20 AND 30 THEN '20-30'
+    WHEN Age BETWEEN 31 AND 40 THEN '31-40'
+    WHEN Age BETWEEN 41 AND 50 THEN '41-50'
+    WHEN Age BETWEEN 51 AND 60 THEN '51-60'
+    ELSE '>60'
+END AS GROUPS,
+
+AVG(Credit_Score) AS AVG_CREDIT_SCORE
+
+FROM Bank_loan
+
+GROUP BY
+CASE
+    WHEN Age BETWEEN 20 AND 30 THEN '20-30'
+    WHEN Age BETWEEN 31 AND 40 THEN '31-40'
+    WHEN Age BETWEEN 41 AND 50 THEN '41-50'
+    WHEN Age BETWEEN 51 AND 60 THEN '51-60'
+    ELSE '>60'
+END;
+
+# 📞 Contact Me
+
+- 💼 LinkedIn: https://linkedin.com/in/your-link
+- 📧 Email: astuti@gmail.com
+- 🌐 GitHub: https://github.com/Astuti99
 
