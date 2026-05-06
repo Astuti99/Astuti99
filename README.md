@@ -5,10 +5,29 @@
 
 ---
 
-## 📌 Project Overview
+## 🔄 Project Workflow
 
-This project focuses on analyzing sales and bank loan data to uncover business insights.  
-Using Power BI and SQL, I explored customer behavior, product performance, and loan risk patterns to support data-driven decision making.
+1. Data Cleaning using Excel
+2. Data Analysis using SQL
+3. KPI and dashboard creation in Power BI
+4. Business insight generation
+5. Customer and product performance analysis
+
+Adventure-Works-Analysis/
+│
+├── README.md
+├── Dashboard/
+│   ├── Dashboard1.png
+│   ├── Dashboard2.png
+│
+├── SQL/
+│   ├── analysis_queries.sql
+│
+├── Dataset/
+│   ├── dataset.csv
+│
+└── Images/
+    ├── customer_analysis.png
 
 ## 🚀 Skills
 
@@ -47,8 +66,8 @@ Using Power BI and SQL, I explored customer behavior, product performance, and l
 
 ## 📫 Contact Me
 
-* LinkedIn: (Add your link here)
-* Email: (your email)
+* LinkedIn: (https://www.linkedin.com/in/astuti-astuti-3a014a403/)
+* Email: (astutijha.12345@gmail.com)
 * - GitHub: https://github.com/Astuti99
 
 ---
@@ -88,7 +107,13 @@ This analysis helps in:
 - Total Revenue: $15.73M  
 - Total Orders: 27K  
 - Quantity Sold: 39K  
-- Total Returns: 1,828  
+- Total Returns: 1,828
+
+  These KPIs helped measure:
+- Sales growth
+- Product performance
+- Return trends
+- Customer contribution
 
 These KPIs help track overall business performance and efficiency.
 
@@ -144,12 +169,7 @@ This approach helped in understanding risk segmentation clearly.
 
 ## ✅ Conclusion
 
-This project helped identify key business insights in sales and loan data.
-It demonstrates strong skills in:
-- Data cleaning
-- SQL analysis
-- Dashboard creation
-- Business understanding
+This project demonstrates my ability to analyze business data using SQL, Power BI, Excel, and Python. It helped uncover sales trends, customer behavior, and loan risk patterns to support data-driven decision-making.
 
   🚀 Project Impact
 
